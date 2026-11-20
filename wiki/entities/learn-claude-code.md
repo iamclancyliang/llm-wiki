@@ -2,7 +2,7 @@
 title: learn-claude-code
 type: entity
 kind: project
-aliases: [Learn Claude Code, shareAI-lab/learn-claude-code, learn.shareai.run, "Bash is all you need"]
+aliases: [Learn Claude Code, shareAI-lab learn-claude-code, learn.shareai.run, "Bash is all you need"]
 tags: [agent-harness, harness-engineering, tutorial, claude-code, python]
 created: 2026-11-20
 updated: 2026-11-20

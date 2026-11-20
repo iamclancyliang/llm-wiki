@@ -9,7 +9,6 @@ updated: 2026-11-20
 sources: []
 raw: raw/agent-harness/github-deepseek-harness-agent-loop-agent-ts.md
 author: DeepSeek-AI
-published:
 url: https://github.com/deepseek-ai/deepseek-harness/blob/master/packages/core/agent-loop/src/agent.ts
 ---
 

@@ -2,7 +2,7 @@
 title: harness-engineering：Go 迷你 agent harness 练习仓库
 type: source
 kind: repo
-aliases: [harness-engineering Go 练习, Go mini harness, Learn-AI-Agent/harness-engineering]
+aliases: [harness-engineering Go 练习, Go mini harness, Learn-AI-Agent harness-engineering]
 tags: [agent-harness, harness-engineering, go, practice, agent-loop]
 created: 2026-11-20
 updated: 2026-11-20

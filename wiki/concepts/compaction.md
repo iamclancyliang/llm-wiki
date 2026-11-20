@@ -1,7 +1,7 @@
 ---
 title: Compaction（上下文压缩）
 type: concept
-aliases: [compaction, context compaction, 上下文压缩, auto-compact, /compact, 压缩]
+aliases: [compaction, context compaction, 上下文压缩, auto-compact, 压缩]
 tags: [agent-harness, context-management, compaction]
 created: 2026-11-20
 updated: 2026-11-20

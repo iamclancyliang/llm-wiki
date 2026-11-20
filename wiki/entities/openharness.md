@@ -2,7 +2,7 @@
 title: OpenHarness
 type: entity
 kind: project
-aliases: [oh, ohmo, HKUDS/OpenHarness]
+aliases: [oh, ohmo, HKUDS OpenHarness]
 tags: [agent-harness, open-source, python, coding-agent]
 created: 2026-11-20
 updated: 2026-11-20

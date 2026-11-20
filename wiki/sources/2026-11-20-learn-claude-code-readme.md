@@ -2,7 +2,7 @@
 title: learn-claude-code 仓库 README（shareAI-lab）
 type: source
 kind: repo
-aliases: [learn-claude-code README, "Bash is all you need", shareAI-lab/learn-claude-code]
+aliases: [learn-claude-code README, "Bash is all you need", shareAI-lab learn-claude-code]
 tags: [agent-harness, harness-engineering, tutorial, claude-code, python]
 created: 2026-11-20
 updated: 2026-11-20

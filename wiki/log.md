@@ -23,3 +23,7 @@
   - "harness" 一词在资料中有运行时层与仓库/环境层两种含义；learn-claude-code 的课程数在网站（20）与 README（17，另有 12 课旧轨道）之间不一致；其余矛盾见各概念页
   - 资料缺口：Learn Harness Engineering 的 14 讲正文、Claude Code 101 的 6 课正文、DeepSeek Harness 的架构文档与 Cordis 论文
 
+## [2026-11-20] schema | 增加 Quartz 网站发布
+- 新建：`site/quartz.config.yaml`、`site/build.sh`、`.github/workflows/deploy-site.yml`（只构建 `wiki/`，`raw/` 不发布）
+- 更新：`CLAUDE.md` 增加发布约束（别名不带 `/`、空字段省略）；8 个页面的别名去掉 `/`；3 个来源页删除空的 `published` 字段；`README.md` 增加浏览方式
+- 备注：Quartz v5.1.0；主题插件 `@quartz-themes/core` 因安装失败而停用，使用内置样式

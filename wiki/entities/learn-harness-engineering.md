@@ -2,7 +2,7 @@
 title: Learn Harness Engineering
 type: entity
 kind: project
-aliases: [learn-harness-engineering, walkinglabs 课程, walkinglabs/learn-harness-engineering]
+aliases: [learn-harness-engineering, walkinglabs 课程, walkinglabs learn-harness-engineering]
 tags: [harness-engineering, course, long-running-agents, verification]
 created: 2026-11-20
 updated: 2026-11-20

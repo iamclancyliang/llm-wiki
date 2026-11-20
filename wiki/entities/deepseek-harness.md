@@ -2,7 +2,7 @@
 title: DeepSeek Harness
 type: entity
 kind: project
-aliases: [dsh, DSH, deepseek-ai/deepseek-harness, ReactLoopAgent]
+aliases: [dsh, DSH, deepseek-ai deepseek-harness, ReactLoopAgent]
 tags: [agent-harness, open-source, typescript, plugin-architecture]
 created: 2026-11-20
 updated: 2026-11-20

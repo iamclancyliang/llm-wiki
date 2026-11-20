@@ -2,7 +2,7 @@
 title: Pi
 type: entity
 kind: project
-aliases: [pi, pi-coding-agent, pi-mono, earendil-works/pi]
+aliases: [pi, pi-coding-agent, pi-mono, earendil-works pi]
 tags: [agent-harness, open-source, typescript, coding-agent, minimalism]
 created: 2026-11-20
 updated: 2026-11-20
